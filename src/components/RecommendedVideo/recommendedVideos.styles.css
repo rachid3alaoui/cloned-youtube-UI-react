@@ -1,0 +1,15 @@
+.recommended__videos {
+  flex: 0.8;
+  padding: 0.5rem 1.3rem;
+  font-size: 0.8rem;
+}
+
+.recommended__videos__title {
+  margin-bottom: 0.4rem;
+}
+
+.videos {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 0.9rem;
+}

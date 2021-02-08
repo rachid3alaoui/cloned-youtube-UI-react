@@ -1,0 +1,17 @@
+.videocard {
+  margin-bottom: 1rem;
+}
+
+.videocard img {
+  width: 100%;
+  padding: 0.3rem;
+}
+
+.videoCard__info {
+  display: flex;
+}
+
+.videoCard__info > .video__text {
+  margin-left: 0.5rem;
+  line-height: 1.6;
+}
